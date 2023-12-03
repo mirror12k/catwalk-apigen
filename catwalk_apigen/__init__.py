@@ -1,0 +1,1 @@
+from catwalk_apigen.generate_api import generate_api
